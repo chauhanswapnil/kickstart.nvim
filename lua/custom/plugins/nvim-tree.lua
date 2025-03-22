@@ -32,6 +32,9 @@ function M.config()
     trash = {
       cmd = 'trash',
     },
+    view = {
+      width = 50,
+    },
     renderer = {
       add_trailing = false,
       group_empty = false,
